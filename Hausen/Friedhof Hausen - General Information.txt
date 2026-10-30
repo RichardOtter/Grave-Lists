@@ -1,4 +1,4 @@
-﻿Graveyard in the village (dorf) of 
+Graveyard in the village (dorf) of 
 Hausen, Steinfeld, Main-Spessart, Bayern, Germany.
 
 Hausen is currently in the same administration as 
@@ -7,7 +7,7 @@ Steinfeld, a larger neighboring village along with Waldzell.
 
 Google Earth photos
 Image rotated so that south west is at top. (225 deg)
-Grave rows are horizontal, builiding is at top right corner
+Grave rows are horizontal, building is at top right corner
 Front gate is at bottom center.
 
 Friedhof Hausen - Aerial View -e2022.png
@@ -37,7 +37,7 @@ Not clear what image data date is. Probably earlier than 2018.
 
 Description
 Cemetery is in the form of a rectangle.
-For reference in this doc, say south is at top. (actuall top is SW, or about 225 deg.)
+For reference in this doc, say south is at top. (actual top is SW, or about 225 deg.)
 
 Divided into 2 sections, 
 1 is the left side, 2 is the right side.
@@ -463,7 +463,7 @@ entire row shown in 2 overview photos from 2015.
 ===========================================DIV50==
 
 EXPERIMENTAL
-Try to make thinhs fit
+Try to make things fit
 
 
 1995 numbering
@@ -497,7 +497,7 @@ Try to make thinhs fit
                    Front gate
 
 Problem is that 1995 data has no location info at all.
-Just a note copied above indicationg rows and order.
+Just a note copied above indicating rows and order.
 Can't find original notes for 1995.
 
 

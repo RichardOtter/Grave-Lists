@@ -1,10 +1,8 @@
-
-
-
 =========================================================================DIV80==
 ===PID: 606 
 ===Coord: [19.5159095,-155.9190774]
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -35,17 +33,21 @@ HERBERT MASAO    MAY 13, 1931  - FEB. 16, 2015
 -----------------------------------------------------DIV60--
 
 ===Date: 2024
-===Photos: 2
+===Photos:
 file://./Images_2024/IMG_20240607_123510715.jpg
 file://./Images_2024/IMG_20240607_123352610.jpg
 ===Notes:
 Adds one name- Herbert Masao.
 
 ===Date: 2003
-===Photos: 2
+===Photos:
 file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-front.jpg
 file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-back.jpg
 ===Notes:
+
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN   | b           | d           | T |
@@ -57,10 +59,14 @@ file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-back.j
 | 271441340 | L55F-7XZ |   621 |   Betty Itsue | Imai | 02.006.1933 | 02.002.1937 |   |
 | 271441366 | L2S7-SX1 |   620 | Herbert Masao | Imai | 13.005.1931 | 16.002.2015 |   |
 
+===Status:
+
+
 =========================================================================DIV80==
 ===PID: 650 
 ===Coord: [19.5156689,-155.9183349]
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -98,30 +104,36 @@ ALBERT H. IMAI
 -----------------------------------------------------DIV60--
 
 ===Date: 2024
-===Photos: 2
+===Photos:
 file://./Images_2024/IMG_20240607_124009414.jpg
 file://./Images_2024/IMG_20240607_124024043.jpg
 ===Notes:
 no changes
 
 ===Date: 2003
-===Photos: 2
+===Photos:
 file://./Images_2003/Imai,%20George%20T%20-Grave%20marker%20-front.jpg
 file://./Images_2003/Imai,%20George%20T%20-Grave%20marker%20-rear.jpg
 ===Notes:
 
-＝＝Interpretation：
+＝＝Interpretation:
 Japanese given name is "今 井 禎 二" = "Imai Teiji", from rear of stone.
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM   | FN        | LN    | b           | d           | T |
 |-----------|----------|--=---|-----------|-------|-------------|-------------|---|
 | 271447801 | LTJG-2TK |  589 | George T. |  Imai | 20.004.1889 | 05.009.1958 |   |
 
+===Status:
+
+
 =========================================================================DIV80==
 ===PID: 
 ===Coord: []
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -145,20 +157,28 @@ MAR. 19, 1966
 -----------------------------------------------------DIV60--
 
 ===Date: 2003
-===Photos: 1
+===Photos:
 file://./Images_2003/Yamabe,%20Kunimastsu%20-Grave%20marker%20-front.jpg
 ===Notes:
 TODO    Transcribe & translate Kanji
+
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN          | b           | d           | T |
 |-----------|----------|-------|---------------|-------------|-------------|-------------|---|
 |           |          |       |    Kunimastsu |      Yamabe | 24.005.1922 | 19.003.1966 |   |
 
+===Status:
+
+
 =========================================================================DIV80==
 ===PID: 
 ===Coord: []
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -180,20 +200,28 @@ KICHITARO YAMABE
 -----------------------------------------------------DIV60--
 
 ===Date: 2003
-===Photos: 1
+===Photos:
 file://./Images_2003/Yamabe,%20Kichitaro%20-Grave%20marker%20-front.jpg
 ===Notes:
 TODO    Transcribe & translate Kanji
+
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN          | b           | d           | T |
 |-----------|----------|-------|---------------|-------------|-------------|-------------|---|
 |           |          |       |     Kichitaro |      Yamabe |             |             |   |
 
+===Status:
+
+
 =========================================================================DIV80==
 ===PID: 
 ===Coord: []
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -216,11 +244,15 @@ UMEYO YAMABE
 -----------------------------------------------------DIV60--
 
 ===Date: 2003
-===Photos: 2
+===Photos:
 file://./Images_2003/Ikeda%20%26%20Yamabe%20-Grave%20marker%20-front.jpg
 file://./Images_2003/Ikeda%20%26%20Yamabe%20-Grave%20marker%20-overview.jpg
 ===Notes:
 TODO    Transcribe & translate Kanji
+
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN     | b           | d           | T |
@@ -228,11 +260,14 @@ TODO    Transcribe & translate Kanji
 |           |          |       |           Ume |  Ikeda |             |             |   |
 |           |          |       |         Umeyo | Yamabe |             |             |   |
 
+===Status:
+
 
 =========================================================================DIV80==
 ===PID: 
 ===Coord: []
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -265,16 +300,21 @@ JUNE 1, 1974
 -----------------------------------------------------DIV60--
 
 ===Date: 2010
-===Photos: 1
+===Photos:
 file://./Images_2010/Fujikawa,%20Yoshio%20b1901.jpg
 ===Notes:
 
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN       | b           | d           | T |
 |-----------|----------|-------|---------------|----------|-------------|-------------|---|
 |           |          |       |        Yoshio | Fujikawa | 20.012.1901 | 01.006.1974 |   |
 |           |          |       |        Masako | Fujikawa | 29.003.1907 | 16.001.2005 |   |
+
+===Status:
 
 
 =========================================================================DIV80==
@@ -309,10 +349,13 @@ APRIL 14, 1014
 -----------------------------------------------------DIV60--
 
 ===Date: 2024
-===Photos: 2
+===Photos:
 file://./Images_2024/IMG_20240607_124145860.jpg
 ===Notes:
 
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN   | b           | d           | T |
@@ -320,10 +363,14 @@ file://./Images_2024/IMG_20240607_124145860.jpg
 |           |          |       | Mildred Umeyo | Imai | 07.007.1928 | 16.007.2006 |   |
 |           |          |       |       Akinori | Imai | 11.011.1928 | 14.004.2024 |   |
 
+===Status:
+
+
 =========================================================================DIV80==
 ===PID: 
 ===Coord: []
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -347,10 +394,13 @@ MAR. 21, 1933 - APR. 8, 2007
 -----------------------------------------------------DIV60--
 
 ===Date: 2024
-===Photos: 2
+===Photos:
 file://./Images_2024/IMG_20240607_124350037_HDR.jpg
 ===Notes:
 
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN       | b           | d           | T |
@@ -358,10 +408,14 @@ file://./Images_2024/IMG_20240607_124350037_HDR.jpg
 |           |          |       |         Teruo | Kamigaki | 15.009.1928 | 25.005.1996 |   |
 |           |          |       |         Yuiko | Kamigaki | 21.003.1933 | 08.004.2007 |   |
 
+===Status:
+
+
 =========================================================================DIV80==
 ===PID: 
 ===Coord: []
 ===Place: Kealakekua
+===Inscription-name: 
 ===Stones: 1
 
 ===Stone: 1
@@ -379,16 +433,22 @@ file://./Images_2024/IMG_20240607_124350037_HDR.jpg
 -----------------------------------------------------DIV60--
 
 ===Date: 2024
-===Photos: 2
+===Photos:
 file://./Images_2024/IMG_20240607_123352610.jpg
 ===Notes:
 
+===Interpretation:
+
+===Location:
 
 ===Table:
 | FG        | FS       | RM    | FN            | LN   | b           | d           | T |
 |-----------|----------|-------|---------------|------|-------------|-------------|---|
 |           |          |       |               |      |             |             |   |
 
+===Status:
+
+=========================================================================DIV80==
 
 
 
